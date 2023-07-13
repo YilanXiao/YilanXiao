@@ -1,5 +1,5 @@
 <h1 align="center"> <👋 Hello, World!> </h1>
-<h2 align="center"> I am Yilan, made in China, based in the UK. </h2>
+<h2 align="center"> Name is Yilan, made in China, based in the UK. </h2>
 
 - 💬 Ask me about: Data Science, Machine Learning, Software Development
 - 🔭 I’m currently working on: Eggy Low Food Warning System
