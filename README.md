@@ -1,4 +1,4 @@
-<h1 align="center"> print(Hello, World!) </h1>
+<h1 align="center"> print("Hello, World!") </h1>
 <h2 align="center"> Name is Yilan. Made in China, based in the UK. </h2>
 
 - 💬 Ask me about: Data Science, Machine Learning, Software Development
